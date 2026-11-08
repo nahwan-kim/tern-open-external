@@ -1,0 +1,7 @@
+schema = 1
+id = "open-external"
+name = "Open External"
+version = "0.1.0"
+description = "⌘⌥-click on a file link opens it outside Tern: a folder in QSpace Pro, a file in its default app."
+icon = "link"
+window = "window.luau"
